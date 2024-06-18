@@ -12,4 +12,4 @@ Para gerenciar os logs das requisições feitas através do Nginx, foi implement
 
 ## Video
 
-[Link para o vídeo]()
+[Link para o vídeo](https://drive.google.com/file/d/1AaXEzojvuONY7sjkH74jIQ4laI6xAt6y/view?usp=sharing)
